@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carl Betsa</h1>
 <h3 align="center">A Software Engineer from Brazil</h3>
 
-- 🔭 I’m currently working on [Saturno Pedais Web Editor](https://www.youtube.com/watch?v=NF5NNCevMeY)
+- 🔭 I’m currently working on [Saturno Pedais Web Editor](https://github.com/thiagothimotti/thiagothimotti.github.io) [video showcase](https://www.youtube.com/watch?v=NF5NNCevMeY)
 
 - 🌱 I’m currently learning **React and Node.js**
 
