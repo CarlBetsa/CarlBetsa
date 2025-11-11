@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/CarlBetsa](https://github.com/CarlBetsa?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/CarlBetsa?tab=repositories)
 
 - 📫 How to reach me **carlbetsa7@gmail.com**
 
