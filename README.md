@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **carlbetsa7@gmail.com**
 
-- 📄 Know about my experiences [I'm a Software engineer expecialized on full-stack web development](I'm a Software engineer expecialized on full-stack web development)
+- 📄 Know about my experiences I'm a Software engineer expecialized on full-stack web development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
