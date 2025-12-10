@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **carlbetsa7@gmail.com**
 
-- 📄 Know about my experiences I'm a Software engineer expecialized on full-stack web development
+- 📄 See some of [my works](https://carlbetsa.github.io/Portfolio/)
 
 
 <h3 align="left">Languages and Tools:</h3>
