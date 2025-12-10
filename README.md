@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/CarlBetsa?tab=repositories)
 
-- 📫 How to reach me **carlbetsa7@gmail.com**
+- 📄 See also [my portfolio](https://carlbetsa.github.io/Portfolio/)
 
-- 📄 See some of [my works](https://carlbetsa.github.io/Portfolio/)
+- 📫 How to reach me **carlbetsa7@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
